@@ -1,5 +1,5 @@
 # PerfectoPython
-Perfecto Python3.x Expense Tracker app/web sample with reportium integration.
+Perfecto Python3.x Expense Tracker app/web sample with reportium integration using Selenium4 and Appium2.
 
 **Prerequisites**
 - Python 3.x

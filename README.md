@@ -1,4 +1,4 @@
-# PerfectoPython
+# Perfecto Python3 with Selenium4 and Appium2
 Perfecto Python3.x Expense Tracker app/web sample with reportium integration using Selenium4 and Appium2.
 
 **Prerequisites**

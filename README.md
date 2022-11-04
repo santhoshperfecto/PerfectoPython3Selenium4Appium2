@@ -26,7 +26,7 @@ pip3 install perfecto-py3 (Mac)
 3. Replace "security token" with your perfecto security token.
 
 
-4. Set device capabilities.
+4. Set Perfecto options.
 
 
 5. Set Perfecto Media repository path of App(Applicable for mobile app testing only) under test.
@@ -35,10 +35,7 @@ pip3 install perfecto-py3 (Mac)
 6. Set the unique identifier of your app(Applicable for mobile app testing only).
 
 
-7. Set other capabilities if required.
-
-
-8. Add your code as applicable.
+7. Add your code as applicable.
 
 
 **Executing the script**

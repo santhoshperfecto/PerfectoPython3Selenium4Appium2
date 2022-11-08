@@ -16,7 +16,7 @@ perfectoOptions = {
     'scriptName': 'Appium2 Test',
     'deviceName': 'R5CT20QC2AR',
     'automationName': 'Appium',
-    'appiumVersion': '2.0.0',
+    'appiumVersion': 'latest',
     'automationVersion': '1.70.1',
     'app': 'PRIVATE:ExpenseTrackerNative.apk',
     'appPackage': 'io.perfecto.expense.tracker',
